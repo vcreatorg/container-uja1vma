@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "vcreatorg",
+  "repo": "container-uja1vma",
+  "name": "vcreatorg",
+  "email": "www.vcreator@gmail.com",
+}
